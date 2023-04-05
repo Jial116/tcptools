@@ -21,9 +21,9 @@ No, the IP address does not change
 
 ## Using "tracert"
 ### What was the target server's IP address?
-Amazon: 18.172.169.208, google:142.250.217.68, Microsoft:23.45.229.117
+Amazon: 23.45.229.96, google:142.250.217.68, Microsoft:23.45.229.117
 ### How many hops were needed to reach the target?
-Amazon:16, google:10, microsoft:9
+Amazon:8, google:10, microsoft:9
 ### Can you identify your ISP from the intermediate server DNS names?
 Comcast
 ### Identify the "class" of IP address for each major step in the trip
