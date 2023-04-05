@@ -27,4 +27,4 @@ Amazon:16, google:10, microsoft:9
 ### Can you identify your ISP from the intermediate server DNS names?
 Comcast
 ### Identify the "class" of IP address for each major step in the trip
-Amazon:
+Amazon: class A,  Google: class A but the last hop is class B,  Microsoft: class A
