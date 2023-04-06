@@ -28,3 +28,10 @@ Amazon:8, google:10, microsoft:9
 Comcast
 ### Identify the "class" of IP address for each major step in the trip
 Amazon: class A,  Google: class A but the last hop is class B,  Microsoft: class A
+
+
+### Extra credit: Insecure web server (2 pts)
+![image](https://user-images.githubusercontent.com/57416548/230293184-3248e27c-69e1-4971-aa0a-383868a265f1.png)
+
+
+
